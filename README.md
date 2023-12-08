@@ -7,7 +7,7 @@ Sign-in and Password recovery
 Student Community Engagement Forum 
 Interactions with Authority such as proctor, OCA, and Registrar 
 Course Evaluation  
-Course Directory (Links for recorded classes --> redirects to YT   
+Course Directory (Links for recorded classes --> redirects to YT )  
 Students_Mangament e.g. Attendance/percentage 
 Blood donation information
 Student Transportation booking
